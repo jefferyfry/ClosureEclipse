@@ -1,4 +1,6 @@
 Closure Compiler on Eclipse
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/97caf5e0-61d3-4601-885a-5aae489d1d47.svg?orgId=604336610407)](https://app.soluble.cloud/repos/details/github.com/jefferyfry/closureeclipse?orgId=604336610407)  
 ======================
 
 Integrates [Closure Compiler](http://code.google.com/closure/compiler/) to Eclipse IDE.
